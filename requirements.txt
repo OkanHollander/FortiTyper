@@ -3,3 +3,4 @@ pyyaml
 rich
 python-dotenv
 requests
+pydantic
