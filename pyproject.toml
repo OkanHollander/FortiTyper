@@ -63,6 +63,7 @@ exclude = [
     ".idea",
     ".mypy_cache",
     ".nox",
+    ".nox",
     ".pants.d",
     ".ruff_cache",
     ".svn",
